@@ -13,3 +13,5 @@ bikeshare.py
 ### Credits
 This project is part of the programming for data science nano degree program on Udacity
 
+### DIFF TEST
+This is a git diff example
