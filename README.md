@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This file was created on 19th Oct 2019.
 
 ### Project Title
-Replace the Project Title
+Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+This project is part of a nano degree program on Udacity
 
 ### Files used
-Include the files used
+Just one file here, which is bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits goes to udacity team
 
+#git -diff test
+This is git --diff test
