@@ -13,5 +13,3 @@ Just one file here, which is bikeshare.py
 ### Credits
 Credits goes to udacity team
 
-#git -diff test
-This is git --diff test
